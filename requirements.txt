@@ -1,0 +1,7 @@
+kraken==5.2.9
+lxml
+rapidfuzz
+opencv-python
+pillow
+pyspellchecker
+jupyter

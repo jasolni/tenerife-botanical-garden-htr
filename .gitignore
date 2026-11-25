@@ -1,0 +1,15 @@
+# page images (not redistributed)
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# secrets and OS files
+.env
+.DS_Store
+# intermediate training checkpoints (the final model in models/ is tracked)
+tenerife_V*_[0-9]*.mlmodel
